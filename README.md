@@ -1,4 +1,6 @@
 # Stock-Tracking-Program
+C# Stock Tracking Program SQL Server
+
 Stock Tracking Program
 
 User Login Screen: If there is data from the Registered Here, you can log in to the program.
